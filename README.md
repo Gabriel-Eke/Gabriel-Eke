@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eke Gabriel Kelechi</h1>
+<h1 align="center">Hi 👋, I'm Eke Gabriel</h1>
 <h3 align="center">Aspiring IT Professional | Data Quality Intern | Business Automation Enthusiast</h3>
 
 - 🔭 I’m currently working on **a Barbershop Booking & Service Mangement System**
